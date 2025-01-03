@@ -6,6 +6,9 @@ import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
 
 
+// "Visualisation()" found at the end of each case, uncomment the line to get a visualization of the tree. Be careful, this will affect the integrity of the measurements.
+// It is also not recommended to use visualization for trees larger than 30-50 nodes.
+
 
 public class Maintest
 {
